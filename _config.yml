@@ -16,9 +16,9 @@
 title: Old Paths
 email: ajayatbts@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome.
+  Thus says the LORD: “Stand in the ways and see, And ask for the old paths, where the good way is, And walk in it; Then you will find rest for your souls. (Jeremiah 6:16)
 baseurl: "/hitchens" # the subpath of your site, e.g. /blog
-url: "https://patdryburgh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ajaydaram.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 twitter_username: patdryburgh
 github_username:  ajaydaram
