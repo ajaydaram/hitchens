@@ -1,5 +1,5 @@
 ---
-title: The use of the word LAW in the book of Romans
+title: Understanding the fulfillment of God's law
 author: William Tyndale
 category: Theology
 layout: post
