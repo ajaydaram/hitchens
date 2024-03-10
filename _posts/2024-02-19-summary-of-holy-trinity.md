@@ -43,7 +43,7 @@ layout: post
 ## Before Nicaea (One and Three):
 - One Only	One above Three	Three Only
 - Modalism	Subordinationism	Tritheism
-- e.g. Sabellianism (Sabellius)	e.g. Adoptionism (Paul of Samostat), Arianisn (Arius)	e.g. John Philoponus
+- e.g. Sabellianism (Sabellius)	e.g. Adoptionism (Paul of Samostat), Arianism (Arius)	e.g. John Philoponus
 
 ## Filioque Clause (“Proceeds from”):
 - Synod of Toledo (589 AD): unilateral action by Western Church
