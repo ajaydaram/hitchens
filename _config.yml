@@ -40,7 +40,14 @@ markdown: kramdown
 
 plugins:
   - jekyll-paginate
+  - jekyll-archives
 
 paginate: 3
 paginate_path: "/page/:num/"
 hide_credits: true
+jekyll-archives:
+  enabled:
+    - categories
+  layout: 'category_index'
+  permalinks:
+    category: '/categories/:name/'
