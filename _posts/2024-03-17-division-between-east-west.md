@@ -25,7 +25,7 @@ The dispute over the filioque clause became a major point of contention between 
 
 The dispute over the filioque clause continues to be a point of contention between the Eastern Orthodox and Roman Catholic churches to this day. Efforts have been made to address this issue through theological dialogue, but significant differences remain, highlighting the deep theological and doctrinal differences that have divided the Eastern and Western churches for centuries.
 
-4. **Liturgical Practices**: The East and West developed distinct liturgical practices, with the East emphasizing a more elaborate and symbolic form of worship, centered around the Eucharist, icons, and the liturgical calendar. The West developed a more simplified and structured liturgy, with a greater emphasis on the role of the priest and the sacraments.
+4.  **Liturgical Practices**: The East and West developed distinct liturgical practices, with the East emphasizing a more elaborate and symbolic form of worship, centered around the Eucharist, icons, and the liturgical calendar. The West developed a more simplified and structured liturgy, with a greater emphasis on the role of the priest and the sacraments.
 
 5. **Political and Cultural Factors**: The political and cultural differences between East and West also played a role in their estrangement. The Western Roman Empire collapsed in the 5th century, leading to the rise of independent kingdoms in Europe. In the East, the Byzantine Empire continued to exist, maintaining a strong centralized authority. These political differences contributed to a growing sense of separation between the two regions.
 
